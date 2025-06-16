@@ -57,7 +57,7 @@ Este proyecto demuestra una solución de automatización RPA desarrollada con **
 
 Este flujo es solo un ejemplo del tipo de soluciones RPA que se pueden desarrollar para aumentar la eficiencia operativa.  
 
-![Diagrama del Proceso](Web_Excel_email_Integration_Architecture_v1.png)
+![Diagrama del Proceso](Web_Excel_email_Integration_Architecture_v1.png.png)
 
 📧 Contacto: [https://www.linkedin.com/in/yeison-estiven-l%C3%B3pez/]
 
